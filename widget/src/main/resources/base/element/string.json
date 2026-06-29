@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "五子棋游戏桌面卡片模块"
+    },
+    {
+      "name": "FormAbility_desc",
+      "value": "五子棋游戏"
+    },
+    {
+      "name": "FormAbility_label",
+      "value": "五子棋"
+    },
+    {
+      "name": "widget_label",
+      "value": "五子棋"
+    },
+    {
+      "name": "widget_desc",
+      "value": "五子棋游戏桌面卡片"
+    }
+  ]
+}

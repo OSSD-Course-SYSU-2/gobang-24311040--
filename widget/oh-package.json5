@@ -1,0 +1,11 @@
+{
+  "name": "widget",
+  "version": "1.0.0",
+  "description": "五子棋游戏桌面卡片模块",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "common": "file:../common"
+  }
+}

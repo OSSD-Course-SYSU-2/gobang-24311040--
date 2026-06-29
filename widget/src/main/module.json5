@@ -1,0 +1,52 @@
+{
+  "module": {
+    "name": "widget",
+    "type": "entry",
+    "description": "$string:module_desc",
+    "mainElement": "FormAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "FormAbility",
+        "srcEntry": "./ets/widget/FormAbility.ets",
+        "description": "$string:FormAbility_desc",
+        "icon": "$media:startIcon",
+        "label": "$string:FormAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "ohos.want.action.home"
+            ]
+          }
+        ]
+      }
+    ],
+    "extensionAbilities": [
+      {
+        "name": "GobangWidget",
+        "srcEntry": "./ets/widget/GobangWidget.ets",
+        "type": "form",
+        "label": "$string:widget_label",
+        "description": "$string:widget_desc",
+        "metadata": [
+          {
+            "name": "ohos.extension.form",
+            "resource": "$profile:form_config"
+          }
+        ]
+      }
+    ]
+  }
+}

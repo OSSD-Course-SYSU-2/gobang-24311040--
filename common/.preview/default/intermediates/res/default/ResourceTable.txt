@@ -1,0 +1,5 @@
+string app_name 0x01000000
+string shared_desc 0x01000004
+media background 0x01000003
+media foreground 0x01000002
+media layered_image 0x01000001

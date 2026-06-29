@@ -1,0 +1,31 @@
+{
+  "modulePathMap": {
+    "common": "D:\\gobang\\common",
+    "entry": "D:\\gobang\\entry",
+    "tv": "D:\\gobang\\tv",
+    "widget": "D:\\gobang\\widget"
+  },
+  "compileMode": "esmodule",
+  "projectRootPath": "D:\\gobang",
+  "nodeModulesPath": "D:\\gobang\\widget\\.preview\\default\\intermediates\\loader_out\\default\\node_modules",
+  "byteCodeHarInfo": {},
+  "declarationEntry": [],
+  "moduleName": "widget",
+  "hspNameOhmMap": {
+    "common": "@normalized:N&common&&common/index&"
+  },
+  "harNameOhmMap": {},
+  "packageManagerType": "ohpm",
+  "compileEntry": [],
+  "otherCompileFiles": [],
+  "dynamicImportLibInfo": {},
+  "routerMap": [],
+  "hspResourcesMap": {
+    "common": "D:\\gobang\\common\\.preview\\default\\intermediates\\res\\default\\ResourceTable.txt"
+  },
+  "updateVersionInfo": {},
+  "customizedHar": false,
+  "anBuildOutPut": "D:\\gobang\\widget\\.preview\\default\\intermediates\\loader_out\\default\\an\\arm64-v8a",
+  "anBuildMode": "type",
+  "buildConfigPath": ".preview\\config\\buildConfig.json"
+}

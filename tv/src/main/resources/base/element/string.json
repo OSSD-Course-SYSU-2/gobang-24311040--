@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "五子棋游戏智慧屏端模块"
+    },
+    {
+      "name": "TvAbility_desc",
+      "value": "五子棋游戏主界面"
+    },
+    {
+      "name": "TvAbility_label",
+      "value": "五子棋"
+    },
+    {
+      "name": "distributed_datasync_reason",
+      "value": "用于跨设备同步游戏数据"
+    },
+    {
+      "name": "distributed_device_reason",
+      "value": "用于发现和连接其他设备"
+    },
+    {
+      "name": "access_service_dm_reason",
+      "value": "用于设备管理和分布式流转"
+    }
+  ]
+}

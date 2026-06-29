@@ -1,0 +1,59 @@
+{
+  "module": {
+    "name": "tv",
+    "type": "entry",
+    "description": "$string:module_desc",
+    "mainElement": "TvAbility",
+    "deviceTypes": [
+      "tv"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "TvAbility",
+        "srcEntry": "./ets/tvability/TvAbility.ets",
+        "description": "$string:TvAbility_desc",
+        "icon": "$media:startIcon",
+        "label": "$string:TvAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        "continuable": true,
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "ohos.want.action.home"
+            ]
+          }
+        ]
+      }
+    ],
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.DISTRIBUTED_DATASYNC",
+        "reason": "$string:distributed_datasync_reason",
+        "usedScene": {
+          "abilities": [
+            "TvAbility"
+          ],
+          "when": "inuse"
+        }
+      },
+      {
+        "name": "ohos.permission.ACCESS_SERVICE_DM",
+        "reason": "$string:access_service_dm_reason",
+        "usedScene": {
+          "abilities": [
+            "TvAbility"
+          ],
+          "when": "inuse"
+        }
+      }
+    ]
+  }
+}

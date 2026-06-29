@@ -1,0 +1,11 @@
+{
+  "name": "tv",
+  "version": "1.0.0",
+  "description": "五子棋游戏智慧屏端模块",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "common": "file:../common"
+  }
+}

@@ -1,0 +1,11 @@
+export { BOARD_SIZE, ChessType, GameMode, GameState, BoardColors, STAR_POINTS, AIScore, DeviceType } from "@normalized:N&&&common/src/main/ets/model/GameConstants&";
+export { SerializableGameState } from "@normalized:N&&&common/src/main/ets/model/SerializableGameState&";
+export type { ChessMove, WinLine, GameStats, GameSettings } from "@normalized:N&&&common/src/main/ets/model/SerializableGameState&";
+export { GameBoard } from "@normalized:N&&&common/src/main/ets/model/GameBoard&";
+export { WinChecker } from "@normalized:N&&&common/src/main/ets/utils/WinChecker&";
+export type { LineInfo } from "@normalized:N&&&common/src/main/ets/utils/WinChecker&";
+export { AIPlayer } from "@normalized:N&&&common/src/main/ets/utils/AIPlayer&";
+export { DistributedManager } from "@normalized:N&&&common/src/main/ets/utils/DistributedManager&";
+export type { DeviceInfo, DistributedCallback } from "@normalized:N&&&common/src/main/ets/utils/DistributedManager&";
+export { BoardDrawer } from "@normalized:N&&&common/src/main/ets/components/BoardDrawer&";
+export type { DrawParams, BoardPosition } from "@normalized:N&&&common/src/main/ets/components/BoardDrawer&";

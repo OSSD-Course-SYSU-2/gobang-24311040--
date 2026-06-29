@@ -1,0 +1,10 @@
+{
+  "name": "common",
+  "version": "1.0.0",
+  "description": "五子棋游戏公共模块 - 包含游戏核心逻辑、AI、胜负判断、分布式流转",
+  "main": "index.ets",
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {}
+}

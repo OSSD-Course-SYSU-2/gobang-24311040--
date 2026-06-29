@@ -1,0 +1,3 @@
+D:/gobang/widget/.preview/default/cache/default/default@PreviewArkTS/esmodule/debug/widget/src/main/ets/pages/Index.ts;&widget/src/main/ets/pages/Index&;esm;widget|widget|1.0.0|src/main/ets/pages/Index.ts;widget;false;ets
+D:/gobang/widget/.preview/default/cache/default/default@PreviewArkTS/esmodule/debug/widget/src/main/ets/widget/GobangWidget.ts;&widget/src/main/ets/widget/GobangWidget&;esm;widget|widget|1.0.0|src/main/ets/widget/GobangWidget.ts;widget;false;ets
+D:/gobang/widget/.preview/default/cache/default/default@PreviewArkTS/esmodule/debug/widget/src/main/ets/widget/FormAbility.ts;&widget/src/main/ets/widget/FormAbility&;esm;widget|widget|1.0.0|src/main/ets/widget/FormAbility.ts;widget;false;ets

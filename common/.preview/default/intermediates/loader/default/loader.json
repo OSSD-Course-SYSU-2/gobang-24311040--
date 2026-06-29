@@ -1,0 +1,35 @@
+{
+  "modulePathMap": {
+    "common": "D:\\gobang\\common",
+    "entry": "D:\\gobang\\entry",
+    "tv": "D:\\gobang\\tv",
+    "widget": "D:\\gobang\\widget"
+  },
+  "compileMode": "esmodule",
+  "projectRootPath": "D:\\gobang",
+  "nodeModulesPath": "D:\\gobang\\common\\.preview\\default\\intermediates\\loader_out\\default\\node_modules",
+  "byteCodeHarInfo": {},
+  "declarationEntry": [],
+  "moduleName": "common",
+  "hspNameOhmMap": {},
+  "harNameOhmMap": {},
+  "packageManagerType": "ohpm",
+  "compileEntry": [
+    "D:\\gobang\\common\\src\\main\\ets\\components\\BoardDrawer.ets",
+    "D:\\gobang\\common\\src\\main\\ets\\model\\GameBoard.ets",
+    "D:\\gobang\\common\\src\\main\\ets\\model\\GameConstants.ets",
+    "D:\\gobang\\common\\src\\main\\ets\\model\\SerializableGameState.ets",
+    "D:\\gobang\\common\\src\\main\\ets\\utils\\AIPlayer.ets",
+    "D:\\gobang\\common\\src\\main\\ets\\utils\\DistributedManager.ets",
+    "D:\\gobang\\common\\src\\main\\ets\\utils\\WinChecker.ets"
+  ],
+  "otherCompileFiles": [],
+  "dynamicImportLibInfo": {},
+  "routerMap": [],
+  "hspResourcesMap": {},
+  "updateVersionInfo": {},
+  "customizedHar": false,
+  "anBuildOutPut": "D:\\gobang\\common\\.preview\\default\\intermediates\\loader_out\\default\\an\\arm64-v8a",
+  "anBuildMode": "type",
+  "buildConfigPath": ".preview\\config\\buildConfig.json"
+}
