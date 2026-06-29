@@ -67,8 +67,6 @@ entry/src/main/ets/
 ## 使用说明
 
 1. **开始游戏**: 启动应用后自动开始新游戏
-   <img width="654" height="1440" alt="Screenshot_2026-06-29T210314" src="https://github.com/user-attachments/assets/c54f36c4-294e-4b87-97eb-182ee9c42a67" />
-
 3. **落子**: 点击棋盘空位放置棋子
 4. **切换模式**: 点击"切换到人机/双人"按钮
 5. **悔棋**: 点击"悔棋"按钮撤销上一步
