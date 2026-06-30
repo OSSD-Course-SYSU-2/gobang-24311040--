@@ -67,13 +67,13 @@ entry/src/main/ets/
 ## 使用说明
 
 1. **开始游戏**: 启动应用后自动开始新游戏
-![运行截图1](assets/screenshot_2026-06-30T004344.png)
+![运行截图1](assets/Screenshot_2026-06-30T004344.png)
 3. **落子**: 点击棋盘空位放置棋子
-![运行截图1](assets/screenshot_2026-06-30T004357.png)
+![运行截图1](assets/Screenshot_2026-06-30T004357.png)
 4. **切换模式**: 点击"切换到人机/双人"按钮
-![运行截图1](assets/screenshot_2026-06-30T004352.png)
+![运行截图1](assets/Screenshot_2026-06-30T004352.png)
 5. **悔棋**: 点击"悔棋"按钮撤销上一步
-![运行截图1](assets/screenshot_2026-06-30T004401.png)
+![运行截图1](assets/Screenshot_2026-06-30T004401.png)
 6. **重置**: 点击"重置"按钮重新开始
 7. **交换先后手**: 点击"交换先后手"按钮
 
